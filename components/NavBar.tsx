@@ -4,6 +4,7 @@ const links = [
     {href : "/", label: "Accueil"},
     {href : "/parcours", label: "Parcours"},
     {href : "/projets", label: "Projets"},
+    {href : "/gaming", label: "Gaming"},
 ];
 
 export default function NavBar() {
